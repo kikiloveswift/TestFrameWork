@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GJBoundle.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>GJOpenAccountFrameWork.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>GJOpenAccountFrameWorkTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>FCEB82BD1E57FDB10062E868</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FCEB82C61E57FDB10062E868</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FCEB83381E580C820062E868</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FCEB834F1E581F200062E868</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

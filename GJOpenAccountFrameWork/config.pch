@@ -1,0 +1,17 @@
+//
+//  config.pch
+//  GJOpenAccountFrameWork
+//
+//  Created by konglee on 2017/2/18.
+//  Copyright © 2017年 yangli. All rights reserved.
+//
+
+#ifndef config_pch
+#define config_pch
+#define Kwidth [UIScreen mainScreen].bounds.size.width
+
+#define Kheight [UIScreen mainScreen].bounds.size.height
+
+#import "NSBundle+GJBoundle.h"
+
+#endif /* config_pch */
